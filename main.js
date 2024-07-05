@@ -13,7 +13,7 @@ function getDirName(problemName) {
 }
 
 function main() {
-    const problem = "1046. Last Stone Weight";
+    const problem = "242. Valid Anagram";
 
     const dirName = getDirName(problem);
 
