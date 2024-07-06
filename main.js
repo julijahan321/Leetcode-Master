@@ -13,7 +13,7 @@ function getDirName(problemName) {
 }
 
 function main() {
-    const problem = "242. Valid Anagram";
+    const problem = "1816. Truncate Sentence";
 
     const dirName = getDirName(problem);
 
