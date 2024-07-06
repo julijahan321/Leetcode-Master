@@ -17,9 +17,9 @@ var truncateSentence = function (s, k) {
     return s;
 
 }
-let test_1=truncateSentence("Hello how are you Contestant",4)
-let test_2=truncateSentence("What is the solution to this problem", 4)
-let test_3=truncateSentence( "chopper is not a tanuki", 5)
+let test_1=truncateSentence("Hello how are you Contestant", 4)
+let test_2=truncateSentence( "What is the solution to this problem", 4)
+let test_3=truncateSentence("chopper is not a tanuki",5)
 console.log(test_1)
 console.log(test_2)
 console.log(test_3)

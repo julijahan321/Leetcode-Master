@@ -1,6 +1,5 @@
 //problem name truncatesentence
 
-
 var truncateSentence = function (s, k) {
     let space = " ";
     let count = 0;

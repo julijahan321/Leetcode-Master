@@ -13,7 +13,7 @@ function getDirName(problemName) {
 }
 
 function main() {
-    const problem = "1816. Truncate Sentence";
+    const problem = "1313. Decompress Run-Length Encoded List";
 
     const dirName = getDirName(problem);
 
